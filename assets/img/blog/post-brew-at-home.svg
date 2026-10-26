@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="683" viewBox="0 0 1024 683"><rect width="1024" height="683" rx="30" fill="#f5ece0"/><circle cx="512" cy="320" r="250" fill="#e8a06a" opacity=".3"/><rect x="0" y="540" width="1024" height="143" rx="30" fill="#5a3322"/><g transform="translate(200 440) scale(1.5)" ><ellipse cx="0" cy="62" rx="70" ry="9" fill="#2b1a12" opacity=".2"/>
+<path d="M-62 56 C-70 10 -50 -26 0 -26 C50 -26 70 10 62 56 Z" fill="#3f2a1f"/>
+<path d="M54 24 C90 10 100 -30 130 -60 L138 -52 C112 -22 104 22 58 44 Z" fill="#3f2a1f"/>
+<path d="M-40 -26 C-40 -70 40 -70 40 -26" fill="none" stroke="#5a3322" stroke-width="9" stroke-linecap="round"/>
+<ellipse cx="0" cy="-28" rx="30" ry="7" fill="#5a3322"/><circle cx="0" cy="-38" r="7" fill="#e8a06a"/>
+<path d="M-48 30 H48" stroke="#e8a06a" stroke-width="5" opacity=".7"/></g><g transform="translate(520 520) scale(1.6)" ><ellipse cx="0" cy="8" rx="105" ry="16" fill="#2b1a12" opacity=".25"/>
+<path d="M-70 -70 H70 V-20 C70 18 40 34 0 34 C-40 34 -70 18 -70 -20 Z" fill="#fffaf2"/>
+<path d="M70 -52 C118 -56 118 4 66 2" fill="none" stroke="#fffaf2" stroke-width="14" stroke-linecap="round"/>
+<ellipse cx="0" cy="-70" rx="70" ry="12" fill="#eadcc7"/><ellipse cx="0" cy="-69" rx="60" ry="8" fill="#4a2a1a"/>
+<path d="M-62 -14 H62" stroke="#b13a24" stroke-width="7" stroke-linecap="round" opacity=".9"/><g fill="none" stroke="#fffaf2" stroke-width="7" stroke-linecap="round" opacity=".8"><path d="M-30 -92 C-48 -116 -12 -130 -30 -156"/><path d="M10 -92 C-8 -116 28 -130 10 -156"/></g></g><g transform="translate(520 392) scale(1.6)" ><path d="M-80 -90 H80 L28 0 H-28 Z" fill="#fffaf2"/><path d="M-80 -90 H80" stroke="#eadcc7" stroke-width="10" stroke-linecap="round"/>
+<path d="M-60 -70 H60" stroke="#b13a24" stroke-width="6" opacity=".9"/><rect x="-40" y="0" width="80" height="12" rx="6" fill="#eadcc7"/></g><g transform="translate(830 520) scale(1.2)" ><rect x="-90" y="-26" width="180" height="62" rx="16" fill="#2b1a12"/><rect x="-90" y="-26" width="180" height="20" rx="10" fill="#3f2a1f"/>
+<rect x="-52" y="-2" width="104" height="26" rx="6" fill="#fffaf2"/><text x="0" y="18" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-weight="700" fill="#2b1a12">320 g</text><ellipse cx="0" cy="40" rx="100" ry="8" fill="#2b1a12" opacity=".2"/></g></svg>
