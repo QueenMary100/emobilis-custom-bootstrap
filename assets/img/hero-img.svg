@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="646" viewBox="0 0 780 646" role="img" aria-label="A steaming cup of coffee in front of terraced coffee hills and a rising sun">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5a3322"/><stop offset="1" stop-color="#8a4a2c"/>
+    </linearGradient>
+    <clipPath id="frame"><rect x="40" y="20" width="700" height="600" rx="300" ry="300"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect x="40" y="20" width="700" height="600" fill="url(#sky)"/>
+    <circle cx="390" cy="300" r="120" fill="#e8a06a"/>
+    <circle cx="390" cy="300" r="170" fill="#e8a06a" opacity=".18"/>
+    <path d="M40 360 L200 250 L300 320 L420 220 L560 330 L740 240 L740 620 L40 620 Z" fill="#3f2a1f"/>
+    <path d="M40 430 C160 370 260 410 380 380 C500 350 620 400 740 360 L740 620 L40 620 Z" fill="#2f5d46"/>
+    <path d="M40 490 C180 440 300 480 420 450 C540 420 650 470 740 440 L740 620 L40 620 Z" fill="#3b7556"/>
+    <g fill="#2f5d46" opacity=".9">
+      <circle cx="120" cy="470" r="9"/><circle cx="160" cy="462" r="9"/><circle cx="200" cy="468" r="9"/>
+      <circle cx="560" cy="452" r="9"/><circle cx="600" cy="458" r="9"/><circle cx="640" cy="450" r="9"/>
+    </g>
+  </g>
+  <!-- saucer -->
+  <ellipse cx="390" cy="548" rx="190" ry="26" fill="#1c100a" opacity=".45"/>
+  <ellipse cx="390" cy="536" rx="180" ry="26" fill="#fffaf2"/>
+  <ellipse cx="390" cy="530" rx="120" ry="16" fill="#eadcc7"/>
+  <!-- cup -->
+  <path d="M270 400 H510 V455 C510 505 470 530 390 530 C310 530 270 505 270 455 Z" fill="#fffaf2"/>
+  <path d="M510 420 C575 415 575 490 505 488" fill="none" stroke="#fffaf2" stroke-width="22" stroke-linecap="round"/>
+  <ellipse cx="390" cy="400" rx="120" ry="20" fill="#eadcc7"/>
+  <ellipse cx="390" cy="402" rx="106" ry="14" fill="#4a2a1a"/>
+  <path d="M290 470 H490" stroke="#b13a24" stroke-width="10" stroke-linecap="round" opacity=".9"/>
+  <!-- steam -->
+  <g fill="none" stroke="#fffaf2" stroke-width="9" stroke-linecap="round" opacity=".85">
+    <path d="M345 372 C320 340 370 320 345 288 C330 268 350 250 350 240"/>
+    <path d="M395 372 C370 335 420 315 395 280 C378 258 398 238 398 226"/>
+    <path d="M445 372 C420 342 470 322 445 292 C432 274 450 258 450 248"/>
+  </g>
+  <!-- cherries and beans -->
+  <g>
+    <circle cx="150" cy="170" r="22" fill="#b13a24"/><circle cx="188" cy="190" r="22" fill="#c44a2e"/>
+    <path d="M150 148 C158 132 176 128 186 132 C178 144 168 150 150 148 Z" fill="#3b7556"/>
+    <g transform="rotate(30 640 180)"><ellipse cx="640" cy="180" rx="24" ry="34" fill="#fffaf2"/><path d="M640 146 C628 168 652 192 640 214" fill="none" stroke="#3f2a1f" stroke-width="5" stroke-linecap="round"/></g>
+    <g transform="rotate(-25 120 330)"><ellipse cx="120" cy="330" rx="16" ry="23" fill="#e8a06a"/><path d="M120 307 C112 322 128 338 120 353" fill="none" stroke="#3f2a1f" stroke-width="4" stroke-linecap="round"/></g>
+  </g>
+</svg>
